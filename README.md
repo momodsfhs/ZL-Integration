@@ -40,7 +40,7 @@ Android/data/<应用包名>/files/.minecraft
 ## 使用教程
 
 不会用android studio的话
-可以用打包器，下载地址：
+可以用打包器，下载地址：https://pan.quark.cn/s/db4960eae467
 
 
 
